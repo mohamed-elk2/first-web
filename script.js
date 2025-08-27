@@ -1,2 +1,2 @@
-const fruits = [ ' diamp' , "goog"]
+let fruits = [ ' diamp' , "goog" ] 
 console.log(fruits)
