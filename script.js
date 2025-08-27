@@ -1,2 +1,6 @@
-let fruits = [ ' diamp' , "goog" ] 
-console.log(fruits)
+const person = {
+    name : 'mohamed',
+    age : 20 ,
+    city : ' tanger' , 
+}
+console.log(person.name);
