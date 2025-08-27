@@ -1,2 +1,2 @@
 const fruits = [ ' diamp' , "goog"]
-console.log(fruits[3])
+console.log(fruits)
